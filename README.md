@@ -12,9 +12,6 @@ columns: number of columns to the right of the starting point
 height: height of the returned reference (optional)
 width: width of the returned reference (optional)
 ```
-![offset examples](/assets/offset.png)
-
-
 
 
 
